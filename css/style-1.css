@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+li {
+    border: 1px solid gray;
+    margin: 10px;
+}
+h4 {
+    color: black;
+}
+.sub_tit {
+    color: rgb(180, 180, 180);
+}
+.txt {
+    font-weight: bold;
+    font-size: 20px;
+}
+.percent {
+    color: rgb(147, 204, 255);
+}
